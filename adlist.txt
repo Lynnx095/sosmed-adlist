@@ -1,0 +1,15 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Sosial Media Blocked
+# Expires: 1 day
+# License: https://unlicense.org
+# Total number of network filters: 5
+# -------------------------------------[INFO]---------------------------------------
+#
+# Sosmed List
+#
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 facebook.com
+0.0.0.0 instagram.com
+0.0.0.0 tiktok.com
+0.0.0.0 twitter.com
+0.0.0.0 snapchat.com
